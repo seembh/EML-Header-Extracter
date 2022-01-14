@@ -1,0 +1,1 @@
+Get-Content -Head 20 *.eml > headers.txt
